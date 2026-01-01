@@ -4,7 +4,9 @@ Users can filter vehicles by brand, model, and year, with pagination and URL-bas
 
 
 ## Demo
-https://github.com/ellafsd/car-catalog/raw/main/public/demo-fixed.mp4
+
+https://github.com/user-attachments/assets/c09b1aeb-3fcd-480e-be60-833d1cf88074
+
 
 
 ## Tech Stack
